@@ -7,7 +7,7 @@ composer require sam0786/phpexcel
 
 ejemplo de uso en el controlador
 
-public function actionTestexcel(){
+	public function actionTestexcel(){
 		
 		$objPHPExcel = new \PHPExcel();
 		
