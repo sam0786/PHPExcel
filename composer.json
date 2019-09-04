@@ -1,5 +1,5 @@
 {
-  "name": "sam0786/phpexcel",
+  "name": "sam0786/PHPExcel",
   "description": "phpexcel in Yii2",
   "type": "yii2-extension",
   "keywords": [
@@ -8,7 +8,7 @@
     "phpexcel",
     "excel"
   ],
-  "homepage": "https://github.com/sam0786/phpexcel",
+  "homepage": "https://github.com/sam0786/PHPExcel",
   "license": "MIT",
   "authors": [
     {
@@ -17,7 +17,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "phpexcel\\": "src/"
+      "PHPExcel\\": "src/"
     }
   }
 }
