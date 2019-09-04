@@ -1,5 +1,5 @@
 {
-  "name": "sam0786/yii2-excel",
+  "name": "sam0786/phpexcel",
   "description": "phpexcel in Yii2",
   "type": "yii2-extension",
   "keywords": [
@@ -8,7 +8,7 @@
     "phpexcel",
     "excel"
   ],
-  "homepage": "https://github.com/sam0786/yii2-excel",
+  "homepage": "https://github.com/sam0786/phpexcel",
   "license": "MIT",
   "authors": [
     {
