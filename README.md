@@ -4,7 +4,7 @@ phpexcel yii2, php 7, xlsx
 
 Descargar el paquete 
 
-	composer require sam0786/phpexcel
+	composer  require --ignore-platform-reqs --prefer-dist sam0786/phpexcel:dev-master
 
 ejemplo de uso en el controlador
 
