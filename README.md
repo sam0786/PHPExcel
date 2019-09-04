@@ -3,7 +3,8 @@ phpexcel yii2, php 7, xlsx
 
 
 Descargar el paquete 
-composer require sam0786/phpexcel
+
+	composer require sam0786/phpexcel
 
 ejemplo de uso en el controlador
 
