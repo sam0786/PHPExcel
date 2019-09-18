@@ -2,11 +2,11 @@
 phpexcel yii2, php 7, xlsx
 
 
-Descargar el paquete 
+Install
 
 	composer  require --ignore-platform-reqs --prefer-dist sam0786/phpexcel:dev-master
 
-ejemplo de uso en el controlador
+example
 
 	public function actionTestexcel(){
 		
